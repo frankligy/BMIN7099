@@ -31,6 +31,8 @@ clear
 ```bash
 # read
 cat file.txt
+# create a file
+touch file.txt
 # write (end your inputs by Ctrl + D)
 cat > file.txt
 vim file.txt  # type i to enter "insert" mode, type escape to exit "insert" mode, to save your change, type ":w" and hit enter, to exit vim, type ":q" and hit enter.
@@ -53,3 +55,7 @@ mv file.txt new_name_file.txt
 rm file.txt
 rm -r folder
 ```
+
+
+## Futher reading
+[Linux commands can be your time saver](https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b)
