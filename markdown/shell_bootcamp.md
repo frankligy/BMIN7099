@@ -1,6 +1,6 @@
 # Linux shell commands
 
-This markdown file aims to provide an overview of commonly-used Linux commands, as we will be using a series of bioinformatics tools throughout the course on Linux environment. This is not a comprehensive Linux tutorial but just some basic ones for students who may not familiar with using terminal.
+This markdown file aims to provide an overview of commonly-used Linux commands, as we will be using a series of bioinformatics tools throughout the course on Linux environment. This is not a comprehensive Linux tutorial but just some basic ones for students who may not familiar with using terminal. Click [here](https://www.youtube.com/watch?v=zAJiXIcHtAU) for the video demo.
 
 ## What is terminal?
  
