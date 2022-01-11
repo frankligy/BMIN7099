@@ -6,6 +6,8 @@ This markdown file aims to provide an overview of commonly-used Linux commands, 
  
 The operating system (OS) on your computer consists of a `kernel`, and a `shell`. To instruct your computer, or `kernel` what to do, we can simply click and drag in most of the laptops nowadays. However, a computer doesn't have to have a graphical interface, imagining we are in a situation where we do not have any graphical interfaces, how can we switch between different directory/drives, create new file/folders, or even rename the files? Now we will need to type in our instructions through `terminal` which allows us to programmatically access `shell`, and in turns help us to reach the `kernel`.
 
+For the following examples, use bash terminal on Mac or Linux system, or power shell on Windows PC.
+
 ## Navigating File System
 ```bash
 # pwd
