@@ -5,9 +5,10 @@ I will post relevant coding mateials and example codes for the course as needed.
 
 ## Index
 1. [Basic Linux Shell commands](./markdown/shell_bootcamp.md)
-2. Suffix Tree
+2. Exact matching and alignment problem
 
-    1. [How to implement suffix tree in Python?](https://github.com/kvh/Python-Suffix-Tree)
+    1. [Summary](./markdown/exact_match_summary.md)
+    2. [How to implement suffix tree in Python?](https://github.com/kvh/Python-Suffix-Tree)
 
 
 
