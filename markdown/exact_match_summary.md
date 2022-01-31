@@ -15,6 +15,8 @@ With these background knowledge of exact matching problem, we can finally delve 
 
 # Further reading
 
+After bowtie, a series of other aligners emerged and worth knowing:
+
 1. [Bowtie2](https://www.nature.com/articles/nmeth.1923)
 
 2. [BWA](https://academic.oup.com/bioinformatics/article/25/14/1754/225615)
