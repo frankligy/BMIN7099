@@ -6,9 +6,16 @@ I will post relevant coding mateials and example codes for the course as needed.
 ## Index
 1. [Basic Linux Shell commands](./markdown/shell_bootcamp.md)
 2. Exact matching and alignment problem
-
     1. [Summary](./markdown/exact_match_summary.md)
     2. [How to implement suffix tree in Python?](https://github.com/kvh/Python-Suffix-Tree)
+3. Genome Annotation
+    1. [Summary](./markdown/genome_annotation.md)
+4. Transcript Quantification
+    1. [Summary](./markdown/transcript_quantification.md)
+5. Single-cell RNA analysis (downstream)
+
+
+
 
 
 
