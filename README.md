@@ -13,6 +13,8 @@ I will post relevant coding mateials and example codes for the course as needed.
 4. Transcript Quantification
     1. [Summary](./markdown/transcript_quantification.md)
 5. Single-cell RNA analysis (downstream)
+6. Inexact match
+    1. [Summary](./markdown/inexact_match.md)
 
 
 
