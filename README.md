@@ -15,6 +15,11 @@ I will post relevant coding mateials and example codes for the course as needed.
 5. Single-cell RNA analysis (downstream)
 6. Inexact match
     1. [Summary](./markdown/inexact_match.md)
+7. Phylogeny
+    1. [Summary](./markdown/phylogeny.md)
+8. HMM
+    1. [A Must Read for HMM model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766791/)
+    
 
 
 
