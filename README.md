@@ -12,13 +12,16 @@ I will post relevant coding mateials and example codes for the course as needed.
     1. [Summary](./markdown/genome_annotation.md)
 4. Transcript Quantification
     1. [Summary](./markdown/transcript_quantification.md)
-5. Single-cell RNA analysis (downstream)
+5. Single-cell RNA analysis 
+    1. [Link to my slides](./sc)
 6. Inexact match
     1. [Summary](./markdown/inexact_match.md)
 7. Phylogeny
     1. [Summary](./markdown/phylogeny.md)
 8. HMM
     1. [A Must Read for HMM model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766791/)
+9. Protein Structure Prediction
+    1. [Summary](./markdown/protein_structure.md)
     
 
 
